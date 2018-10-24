@@ -1,0 +1,177 @@
+body {
+	font-family: 'Mali', cursive;
+}
+
+.header {
+	
+	width: 100%;
+	margin-top: 0;
+}
+
+#headmenu {
+		background-color: #000000;
+		text-align: center;
+		color: white;
+		font-size: 40px;
+		height: 110px;
+
+
+		
+
+}
+
+#headmenu a {
+	display: inline-block;
+	padding: 15px;
+	margin-top:20px;
+	
+}
+
+#headmenu a:link {
+	color: white;
+	text-decoration: none;
+}	
+
+#headmenu a:hover {
+	color: black;
+	background-color: white;
+	text-decoration: none;
+}	
+
+
+#headimage {
+	float: left;
+	background-image: url("logo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:100px;
+	width: 100px;
+	margin-left: 50px;
+	padding-top: 5px;
+}
+
+.underhead {
+	
+	background-image: url("underhead.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 1000px;
+}
+
+.main {
+	margin:10px;
+	margin-left: 100px;
+	text-align:center;
+	font-size: 30px;
+	
+}
+
+.main a {
+
+	text-decoration: none;
+}
+
+.main p {
+	margin-bottom: 10px;
+}
+
+
+.cblock {
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	text-align: center;
+	margin: 20px;
+	background-color: #dad9d93d;
+	border-radius: 15px;
+	
+}
+
+
+.cblock:hover {
+	box-shadow: 10px 10px 5px grey;
+}
+
+.blockimg {
+	background-size:cover;
+	background-repeat: no-repeat;
+	height:80%;
+	width: 100%;
+}
+
+#musicimg {
+	background-image: url("music.jpg");
+}
+
+#planetsimg {
+	background-image: url("planets.png");
+	
+}
+
+#councilimg {
+	background-image: url("council.jpg");
+}
+
+#rickimg {
+	background-image: url("rick.png");
+	background-position: 0px -20px;
+}
+
+#mortyimg {
+	background-image: url("morty.png");
+}
+
+#jerryimg {
+	background-image: url("jerry.jpg");
+}
+
+#invimg {
+	background-image: url("portal_gun.png")
+}
+
+#asimg {
+	background-image: url("adultswim.jpg");
+	background-position: 0px -50px;
+}
+
+#comicsimg {
+	background-image: url("comics.jpg");
+}
+
+
+.foot {
+	margin-top: 50px;
+	width:100%;
+	height: 225px;
+	background-color: black;
+	text-align: center;
+	padding-top:100px;
+}
+
+
+.social {
+	margin-top: 20px;
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	display: inline-block;
+	
+
+}
+
+#fb {
+
+	background-image: url("fb.png");
+}
+
+#ig {
+	background-image: url("ig.png");
+
+}
+
+#vk {
+	background-image: url("vk.png");
+	border: 1px solid white;
+	border-radius: 10px;
+}
