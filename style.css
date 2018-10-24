@@ -41,7 +41,7 @@ body {
 
 #headimage {
 	float: left;
-	background-image: url("logo.jpg");
+	background-image: url("images/logo.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height:100px;
@@ -52,7 +52,7 @@ body {
 
 .underhead {
 	
-	background-image: url("underhead.jpg");
+	background-image: url("images/underhead.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -101,42 +101,42 @@ body {
 }
 
 #musicimg {
-	background-image: url("music.jpg");
+	background-image: url("images/music.jpg");
 }
 
 #planetsimg {
-	background-image: url("planets.png");
+	background-image: url("images/planets.png");
 	
 }
 
 #councilimg {
-	background-image: url("council.jpg");
+	background-image: url("images/council.jpg");
 }
 
 #rickimg {
-	background-image: url("rick.png");
+	background-image: url("images/rick.png");
 	background-position: 0px -20px;
 }
 
 #mortyimg {
-	background-image: url("morty.png");
+	background-image: url("images/morty.png");
 }
 
 #jerryimg {
-	background-image: url("jerry.jpg");
+	background-image: url("images/jerry.jpg");
 }
 
 #invimg {
-	background-image: url("portal_gun.png")
+	background-image: url("images/portal_gun.png")
 }
 
 #asimg {
-	background-image: url("adultswim.jpg");
+	background-image: url("images/adultswim.jpg");
 	background-position: 0px -50px;
 }
 
 #comicsimg {
-	background-image: url("comics.jpg");
+	background-image: url("images/comics.jpg");
 }
 
 
@@ -162,16 +162,16 @@ body {
 
 #fb {
 
-	background-image: url("fb.png");
+	background-image: url("images/fb.png");
 }
 
 #ig {
-	background-image: url("ig.png");
+	background-image: url("images/ig.png");
 
 }
 
 #vk {
-	background-image: url("vk.png");
+	background-image: url("images/vk.png");
 	border: 1px solid white;
 	border-radius: 10px;
 }
